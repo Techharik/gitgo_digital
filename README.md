@@ -1,2 +1,4 @@
 # gitgo_digital
-[!DoctorSearchApplication](/assets/GitGoDigital.png)
+
+
+![alt text](assets/GitGoDigital.png)
