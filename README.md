@@ -1,4 +1,4 @@
-# gitgo_digital
+# gitgo_digita
 
 
 ![alt text](assets/GitGoDigital.png)
